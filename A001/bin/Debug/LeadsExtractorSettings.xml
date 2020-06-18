@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<LeadsExtractorSettings>
+  <generalsettings.version>1.04</generalsettings.version>
+  <generalsettings.apppath>C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\bin\Debug</generalsettings.apppath>
+  <generalsettings.settingsxsdfilename>LeadsExtractorSettings.xsd</generalsettings.settingsxsdfilename>
+  <generalsettings.settingsxsdpath>C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\bin\Debug</generalsettings.settingsxsdpath>
+  <generalsettings.settingsxmldeffilename>LeadsExtractorSettings.xml</generalsettings.settingsxmldeffilename>
+  <generalsettings.enginefrequency>2</generalsettings.enginefrequency>
+  <generalsettings.degreeparallelism>4</generalsettings.degreeparallelism>
+  <generalsettings.maxbufsizeprepareurl>8</generalsettings.maxbufsizeprepareurl>
+  <generalsettings.defaultpathforsettings>C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\bin\Debug</generalsettings.defaultpathforsettings>
+  <generalsettings.defaultpathforcampaings>C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\bin\Debug</generalsettings.defaultpathforcampaings>
+  <generalsettings.maxsearchdepth>9</generalsettings.maxsearchdepth>
+  <generalsettings.maxleadstoextract>4</generalsettings.maxleadstoextract>
+  <generalsettings.nothingtoprocessattempts>3</generalsettings.nothingtoprocessattempts>
+  <exportsettings.addheaderexportexcel>True</exportsettings.addheaderexportexcel>
+  <searchsettings.emailregularexpression>[A-Z0-9._%+-]+@[A-Z0-9.-]{3,65}\.[A-Z]{2,4}</searchsettings.emailregularexpression>
+  <searchsettings.phoneregularexpression>[01]?[- .]?(\([2-9]\d{2}\)|[2-9]\d{2})[- .]?\d{3}[- .]?\d{4}</searchsettings.phoneregularexpression>
+  <searchsettings.skyperegularexpression>skype:\s*(?&lt;name&gt;[\w\.\s]*)</searchsettings.skyperegularexpression>
+  <searchsettings.maxemailsize>4</searchsettings.maxemailsize>
+  <searchsettings.maxphonesize>1</searchsettings.maxphonesize>
+  <searchsettings.maxskypesize>1</searchsettings.maxskypesize>
+  <searchsettings.maxwebpageize>5</searchsettings.maxwebpageize>
+  <searchsettings.excludeemailwithname>admin,antispam,anti-spam,no-contact,daemon,domain,ezine,abuse,fidonet,fraud,-join,junk,-leave,listserv,mailer-daemon,majordomo,no-reply,no_reply,noreply,notice,nospam,privacy,rating,remove,removeme,resume,ripoff,scam,spam,spamcop,spammer,subscribe,support,unsubscribe,yourdomain,yourname,xxx,..</searchsettings.excludeemailwithname>
+  <searchsettings.excludeemailwithdomain>antispam</searchsettings.excludeemailwithdomain>
+  <searchsettings.excludeurlwith>addreply.php,editpost.php,formmail.php,javascript,pms.php,print.php,profil.php,reply.php,report.php,usercp.php,dictionary.reference.com,googleadservices.com,yahoo.com,msn.com,answers.com,altavista.com,doubleclick,scam,fraud,.dll,.exe,.bat,.ocx,w3.org</searchsettings.excludeurlwith>
+  <searchsettings.autosaveresults>3</searchsettings.autosaveresults>
+  <startsearchwithurls.searchengines>False|Bingo.com|http://www.bing.com/search?q=^False|DailyFx.com|http://www.dailyfx.com/forex_forum/^False|DonnaForex.com|http://www.donnaforex.com/forum/^False|Dream Team Money|http://www.dreamteammoney.com/index.php?showforum=48^False|Forex Forum Ru|http://forexforum.ru/^False|Forex Pf Ru|http://www.forexpf.ru/forum/^True|Forex Systems Ru|http://forexsystems.ru/^False|ForexFactory.com|http://www.forexfactory.com/forum.php^False|Forex-TSD.com|http://www.forex-tsd.com/^False|FxClub.org|http://forum.fxclub.org/^False|Fx-Trend|http://forum.fx-trend.com/^False|Gigablast.com|https://www.gigablast.com/search?q=^False|Global-View.com|http://www.global-view.com/forums/forum_ticker.html?f=1^False|Google.com|https://www.google.com/search?q=^False|Google.ru|https://www.google.ru/search?q=^False|Lycos.com|http://search.lycos.com/web?q=^False|Mail.ru|http://go.mail.ru/search?q=^False|Rambler.ru|http://nova.rambler.ru/search?query=^False|Traders Territory|http://tradersterritory.com/^False|Yahoo.com|https://search.yahoo.com/search?p^False|Yandex.ru|https://yandex.ru/yandsearch?text=^False|Сообщество Форекс Трейдеров|http://ruforum.mt5.com/</startsearchwithurls.searchengines>
+  <extractbykeywords.filterseeemails>True</extractbykeywords.filterseeemails>
+  <extractbykeywords.filterseephones>False</extractbykeywords.filterseephones>
+  <extractbykeywords.filterseeskypes>False</extractbykeywords.filterseeskypes>
+  <extractbykeywords.keywordoneverypage>False</extractbykeywords.keywordoneverypage>
+  <extractbykeywords.keywordappearinurl>False</extractbykeywords.keywordappearinurl>
+  <extractbykeywords.autorefresh>True</extractbykeywords.autorefresh>
+  <processurlsprogress.autorefresh>True</processurlsprogress.autorefresh>
+</LeadsExtractorSettings>

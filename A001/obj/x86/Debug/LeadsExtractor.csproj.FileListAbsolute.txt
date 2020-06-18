@@ -1,0 +1,9 @@
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\obj\x86\Debug\LeadsExtractor.Properties.Resources.resources
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\bin\Debug\LeadsExtractor.exe
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\bin\Debug\LeadsExtractor.pdb
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\obj\x86\Debug\LeadsExtractor.exe
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\obj\x86\Debug\LeadsExtractor.pdb
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\obj\x86\Debug\LeadsExtractor.AboutBox1.resources
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\obj\x86\Debug\LeadsExtractor.Form1.resources
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\obj\x86\Debug\LeadsExtractor.frmSearchEnginesEdit.resources
+C:\Users\Apollonia\Documents\Visual Studio 2010\Projects\LeadsExtractor\A001\obj\x86\Debug\LeadsExtractor.csproj.GenerateResource.Cache

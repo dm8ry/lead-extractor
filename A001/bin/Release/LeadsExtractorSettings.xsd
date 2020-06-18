@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="LeadsExtractorSettings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="generalsettings.version" type="xs:decimal" />
+        <xs:element name="generalsettings.apppath" type="xs:string" />
+        <xs:element name="generalsettings.settingsxsdfilename" type="xs:string" />
+        <xs:element name="generalsettings.settingsxsdpath" type="xs:string" />
+        <xs:element name="generalsettings.settingsxmldeffilename" type="xs:string" />
+        <xs:element name="generalsettings.enginefrequency" type="xs:unsignedByte" />
+        <xs:element name="generalsettings.degreeparallelism" type="xs:unsignedByte" />
+        <xs:element name="generalsettings.maxbufsizeprepareurl" type="xs:unsignedByte" />
+        <xs:element name="generalsettings.defaultpathforsettings" type="xs:string" />
+        <xs:element name="generalsettings.defaultpathforcampaings" type="xs:string" />
+        <xs:element name="generalsettings.maxsearchdepth" type="xs:unsignedByte" />
+        <xs:element name="generalsettings.maxleadstoextract" type="xs:unsignedByte" />
+        <xs:element name="generalsettings.nothingtoprocessattempts" type="xs:unsignedByte" />
+        <xs:element name="exportsettings.addheaderexportexcel" type="xs:string" />
+        <xs:element name="searchsettings.emailregularexpression" type="xs:string" />
+        <xs:element name="searchsettings.phoneregularexpression" type="xs:string" />
+        <xs:element name="searchsettings.skyperegularexpression" type="xs:string" />
+        <xs:element name="searchsettings.maxemailsize" type="xs:unsignedByte" />
+        <xs:element name="searchsettings.maxphonesize" type="xs:unsignedByte" />
+        <xs:element name="searchsettings.maxskypesize" type="xs:unsignedByte" />
+        <xs:element name="searchsettings.maxwebpageize" type="xs:unsignedByte" />
+        <xs:element name="searchsettings.excludeemailwithname" type="xs:string" />
+        <xs:element name="searchsettings.excludeemailwithdomain" type="xs:string" />
+        <xs:element name="searchsettings.excludeurlwith" type="xs:string" />
+        <xs:element name="searchsettings.autosaveresults" type="xs:unsignedByte" />
+        <xs:element name="startsearchwithurls.searchengines" type="xs:string" />
+        <xs:element name="extractbykeywords.filterseeemails" type="xs:string" />
+        <xs:element name="extractbykeywords.filterseephones" type="xs:string" />
+        <xs:element name="extractbykeywords.filterseeskypes" type="xs:string" />
+        <xs:element name="extractbykeywords.keywordoneverypage" type="xs:string" />
+        <xs:element name="extractbykeywords.keywordappearinurl" type="xs:string" />
+        <xs:element name="extractbykeywords.autorefresh" type="xs:string" />
+        <xs:element name="processurlsprogress.autorefresh" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

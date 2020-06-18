@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LeadsExtractorSettings>    
+  <generalsettings.version>1.0</generalsettings.version>
+  <generalsettings.apppath>C:\</generalsettings.apppath>
+  <generalsettings.settingsxsdfilename>LeadsExtractorSettings.xsd</generalsettings.settingsxsdfilename>
+  <generalsettings.settingsxsdpath>C:/</generalsettings.settingsxsdpath>
+  <generalsettings.settingsxmldeffilename>Abcd.xml</generalsettings.settingsxmldeffilename>
+  <generalsettings.enginefrequency>4</generalsettings.enginefrequency>
+  <generalsettings.degreeparallelism>4</generalsettings.degreeparallelism>
+  <generalsettings.maxbufsizeprepareurl>4</generalsettings.maxbufsizeprepareurl>
+  <generalsettings.defaultpathforsettings>C:/</generalsettings.defaultpathforsettings>
+  <generalsettings.defaultpathforcampaings>C:/</generalsettings.defaultpathforcampaings>
+  <generalsettings.maxsearchdepth>4</generalsettings.maxsearchdepth>
+  <generalsettings.maxleadstoextract>4</generalsettings.maxleadstoextract>
+  <generalsettings.nothingtoprocessattempts>3</generalsettings.nothingtoprocessattempts>
+  <exportsettings.addheaderexportexcel>True</exportsettings.addheaderexportexcel>
+  <searchsettings.emailregularexpression>[A-Z0-9._%+-]+@[A-Z0-9.-]{3,65}\.[A-Z]{2,4}</searchsettings.emailregularexpression>
+  <searchsettings.phoneregularexpression>[01]?[- .]?(\([2-9]\d{2}\)|[2-9]\d{2})[- .]?\d{3}[- .]?\d{4}</searchsettings.phoneregularexpression>
+  <searchsettings.skyperegularexpression>skype:\s*(?&lt;name&gt;[\w\.\s]*)</searchsettings.skyperegularexpression>
+  <searchsettings.maxemailsize>30</searchsettings.maxemailsize>
+  <searchsettings.maxphonesize>30</searchsettings.maxphonesize>
+  <searchsettings.maxskypesize>30</searchsettings.maxskypesize>
+  <searchsettings.maxwebpageize>30</searchsettings.maxwebpageize>
+  <searchsettings.excludeemailwithname>a, b, c d</searchsettings.excludeemailwithname>
+  <searchsettings.excludeemailwithdomain>e, f, g, h</searchsettings.excludeemailwithdomain>
+  <searchsettings.excludeurlwith>e, f, g, h</searchsettings.excludeurlwith>
+  <searchsettings.autosaveresults>3</searchsettings.autosaveresults>
+  <startsearchwithurls.searchengines>i, j, k, l</startsearchwithurls.searchengines>
+  <extractbykeywords.filterseeemails>True</extractbykeywords.filterseeemails>
+  <extractbykeywords.filterseephones>True</extractbykeywords.filterseephones>
+  <extractbykeywords.filterseeskypes>True</extractbykeywords.filterseeskypes>
+  <extractbykeywords.keywordoneverypage>True</extractbykeywords.keywordoneverypage>
+  <extractbykeywords.keywordappearinurl>True</extractbykeywords.keywordappearinurl>
+  <extractbykeywords.autorefresh>True</extractbykeywords.autorefresh>
+  <processurlsprogress.autorefresh>True</processurlsprogress.autorefresh>
+</LeadsExtractorSettings>
